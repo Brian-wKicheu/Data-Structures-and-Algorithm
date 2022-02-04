@@ -1,0 +1,9 @@
+1. Create a Vertex.java for the node we will traverse.
+
+2. Create BreadthFirstSearch. java that implements vertex queues using Linked List.
+
+3 Create Test.java class for testing.
+
+Commandline Compile and run procedure.
+~ javac Test.java
+~ java Test

@@ -1,0 +1,6 @@
+1. Create Node object class.
+
+2. Create Deapth-First-Search(DFS) function itself.
+    - This implements the algorithm recursively.
+
+3. Create a testing App.py

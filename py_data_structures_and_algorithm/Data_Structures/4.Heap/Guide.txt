@@ -1,0 +1,4 @@
+1. Create class heap, set parameter as (object).
+    - Create static heap size.
+
+2. On App.py test file import Heap class

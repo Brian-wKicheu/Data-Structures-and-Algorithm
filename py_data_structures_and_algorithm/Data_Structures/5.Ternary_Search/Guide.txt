@@ -1,0 +1,14 @@
+1. Create class Node with an object.
+   - The __init__ constructor has leftNode is the Lesser, middleNode = Equals to, and rightNode = Greater 
+
+2. Create class TST with object.
+   - Let __init__ constructor be 'self'
+   - Create PUT method which takes 'self', 'key', and 'value' pair
+   - Define PUT ITEM method which takes self, node, key, value, and index
+   - Define the GET method which takes parameter self and key
+   - Define the recursevely called getItem method in get()
+
+3. Test with App.py 
+   - Import TST class
+   - reference the class obj setting it 'tree'
+   - tree.put(...) and try to print tree.get(...)

@@ -1,0 +1,8 @@
+1. Create packages AVL, Node, class BalancedTree, and a class App that will be used for testing.
+
+2. class Node. Start implementing from here
+
+3. class BalancedTree. implement it and for rebalanceTree method implement 1st the setBalance() followed by height()
+         Then, implement rotateLeftRight(), rotateRightLeft(), rotateRight() and rotateLeft().
+
+4. class App. This is for testing. import BalancedTree class

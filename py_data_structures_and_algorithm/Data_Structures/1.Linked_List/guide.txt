@@ -1,0 +1,5 @@
+Step 1: Create Node.py with Node class that creates the node and that can also delete
+
+Step 2: Create LinkedList.py with LinkedList class with an obj, then import Node class.
+
+Step 3: Create app.py and  import LinkedList. Insert elements
